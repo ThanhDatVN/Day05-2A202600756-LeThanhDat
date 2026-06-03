@@ -6,14 +6,14 @@ Thin SPEC không phải PRD đầy đủ. Đây là bản cam kết đủ rõ đ
 
 **Track:**  
 **Product/app thật:**  
-**User cụ thể:**  
+**User cụ thể:** Người dùng có nhu cầu ăn uống nhưng băn khoăn chưa biết ăn gì, hoặc có món muốn ăn nhưng chưa biết nên đặt quán nào.  
 **Nhóm có phải user thật không? Nếu không, khác ở đâu?**  
 
 ## 2. Evidence summary
 
 | Evidence | Nguồn | User/pain nói lên điều gì? | SPEC phải đổi gì? |
 |---|---|---|---|
-|  |  |  |  |
+|Thành viên nhóm|  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
