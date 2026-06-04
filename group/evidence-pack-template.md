@@ -1,10 +1,9 @@
-# Evidence Pack — Nhóm [Tên nhóm]
-
-Nộp kèm thin SPEC cuối Day 05.
+# Evidence Pack — Nhóm [XHCN]
 
 ## 1. Nhóm và track
 
-**Tên nhóm:** [Điền tên nhóm]  
+**Tên nhóm:** XHCN
+
 **Track:** Food Delivery  
 **Product/app đã chọn:** Shopee Food / GrabFood  
 **Build slice đang nghĩ:** AI nhận diện intent mơ hồ khi user tìm món ("ăn gì đó mới", "không biết muốn ăn gì") → hỏi clarification hoặc gợi ý theo mood thay vì chỉ trả kết quả theo popularity/keyword
